@@ -1,11 +1,11 @@
 numpy
-torch==1.0.0
-torchvision==0.2.1
+torch
+torchvision
 pillow
 scikit-image
 fire
 matplotlib
-opencv-python==4.1.1.26
+opencv-python
 numba
 easydict
 tensorflow >= 2.0
